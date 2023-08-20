@@ -1,0 +1,3 @@
+[submodule "hw5_hugo_site/themes/hugo-book"]
+	path = hw5_hugo_site/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
